@@ -87,7 +87,7 @@ nav ul a {
   grid-column-gap: 25px;
 }
 
-.text_area p {
+.text-area p {
   color: #727272;
   font-weight: 400;
   font-size: 16px;
@@ -138,7 +138,7 @@ nav ul a {
   font-family: "Work Sans";
 }
 .text_area p {
-  olor: #727272;
+  color: #727272;
   font-weight: 400;
   font-size: 16px;
   font-family: "Work Sans";
@@ -189,11 +189,24 @@ nav ul a {
   margin-bottom: 100px;
 }
 
-.fact-conainer {
-  max-width: 1440px;
+.grid_conainer {
+  max-width: 1650px;
   width: 100%;
   justify-content: center;
   margin: 0 auto;
+}
+.sub-title {
+  color: #131313;
+  font-weight: 700;
+  font-size: 45px;
+  font-family: "Work Sans";
+}
+
+.description {
+  color: #727272;
+  font-weight: 400;
+  font-size: 16px;
+  font-family: "Work Sans";
 }
 .fact-items {
   display: flex;
@@ -202,7 +215,7 @@ nav ul a {
   margin-bottom: 80px;
 }
 
-.fact-details {
+.grid_details {
   width: 100%;
   max-width: 542px;
 }
